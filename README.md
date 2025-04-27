@@ -8,7 +8,7 @@ Written in Bash. Simple, clean, and ready to plug into your `cron`.
 ## 🔧 How it works
 
 1. The script gets today’s date.
-2. It checks [openholidaysapi.org](https://openholidaysapi.org/) to see if today is a public holiday in Poland.
+2. It checks [openholidaysapi.org](https://openholidaysapi.org/) to see if today is a public holiday.
 3. If it’s not - it sends a message to a selected Mattermost channel via webhook.
 
 ## 📦 Requirements
