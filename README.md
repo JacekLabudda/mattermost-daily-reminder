@@ -56,8 +56,8 @@ To run it every weekday at 09:58 (2 minutes before your daily starts):
 👉 Join us here 💻🎙️ [Google Meet link]  
 **We’re starting in a moment – see you there! 👀**
 ```
-🌍 Support for other countries and languages
-Works with any country/language supported by the API – just change:
+🌍 Support for other countries
+Works with any country supported by the API – just change:
 
 ```shell
 COUNTRY="DE"
